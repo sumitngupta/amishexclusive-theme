@@ -1,0 +1,35 @@
+{
+  "name": "amishexclusive-theme",
+  "description": "Tumblr theme for AmishExclusive.com",
+  "version": "0.1.0",
+  "homepage": "https://github.com/sumit/amishexclusive-theme",
+  "author": {
+    "name": "Sumit Gupta",
+    "email": "sumitngupta@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sumit/amishexclusive-theme.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/sumit/amishexclusive-theme/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-qunit": "~0.2.0",
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-connect": "~0.1.2",
+    "grunt-contrib-livereload": "~0.1.2",
+    "grunt-regarde": "~0.1.1",
+    "grunt-contrib-cssmin": "~0.6.1",
+    "grunt-contrib-uglify": "~0.2.1",
+    "grunt-contrib-clean": "~0.4.1"
+  },
+  "keywords": []
+}
